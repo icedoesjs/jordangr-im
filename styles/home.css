@@ -234,6 +234,10 @@ a:hover {
     color: #FCF6F5FF;
 }
 
+.contact-btn:hover a {
+    color: #FCF6F5FF;
+}
+
 .contact-btn a:hover {
     color: #FCF6F5FF;
 }
