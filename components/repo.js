@@ -28,7 +28,7 @@ export default function Repo({name}) {
             <h2 className="title">{data.name.replaceAll("-", " ")}</h2>
             <span className="watcher"><FontAwesomeIcon icon={faEye}/> {data.watchers}</span> <span className="watcher"><FontAwesomeIcon icon={faCodeFork}/> {data.forks}</span> <span className="watcher"><FontAwesomeIcon icon={faX}/> {data.open_issues}</span>
             <span className="description">{data.description}</span>
-            <a className="btn btn-primary url" href={data.html_url} role="button">View Project</a>
+            <a className="btn btn-primary url" href={data.html_url} role="button">View Project</a> <a className="btn btn-primary url" href={data.clone_url} role="button">Clone Repo</a>
         </div>
     )
 }
