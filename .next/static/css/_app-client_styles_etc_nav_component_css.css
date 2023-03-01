@@ -1,0 +1,19 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[13].use[3]!./styles/etc/nav.component.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************/
+.colored-link {
+    transition: 0.3s;
+}
+
+.colored-link:hover {
+    color: #990011FF;
+    opacity: 75%;
+    text-decoration: underline;
+    text-underline-offset: 0.3rem;
+}
+
+@media only screen and (min-width: 280px) and (max-width: 1280px) {
+    .nav-bar {
+        display: none;
+    }
+}

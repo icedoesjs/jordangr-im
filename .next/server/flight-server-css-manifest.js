@@ -1,0 +1,26 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\app\\page": [
+      "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\styles\\home.css",
+      "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\styles\\etc\\indicator.css",
+      "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\app\\globals.css",
+      "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\node_modules\\bootstrap\\dist\\css\\bootstrap.css",
+      "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\node_modules\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\styles\\etc\\nav.component.css",
+      "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Lato\",\"arguments\":[{\"weight\":[\"300\",\"400\",\"700\"],\"subsets\":[\"latin\"]}],\"variableName\":\"latoFont\"}",
+      "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\styles\\etc\\repo.component.css"
+    ]
+  },
+  "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\app\\page.tsx": [
+    "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\styles\\home.css",
+    "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\styles\\etc\\indicator.css",
+    "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\styles\\etc\\repo.component.css"
+  ],
+  "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\app\\layout.tsx": [
+    "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Lato\",\"arguments\":[{\"weight\":[\"300\",\"400\",\"700\"],\"subsets\":[\"latin\"]}],\"variableName\":\"latoFont\"}",
+    "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\app\\globals.css",
+    "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\node_modules\\bootstrap\\dist\\css\\bootstrap.css",
+    "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\node_modules\\bootstrap-icons\\font\\bootstrap-icons.css",
+    "C:\\Users\\epicb\\OneDrive\\Desktop\\iceyy.dev\\portfolio\\styles\\etc\\nav.component.css"
+  ]
+}
