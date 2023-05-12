@@ -1,6 +1,7 @@
 const config = {
     "github_name": "icedoesjs",
     "repos": ["automotive-info", "Simplified-JSON", "pokemon-virtual-deck", "STT-website|private", "sharex-cdn", "weather-website"],
+    "use_previews": false,
     "repo_data": {
         "automotive-info": {
             "image": "https://cdn.iceyy.dev/storage/389558396195438593/nzENYbaOTg.png"
