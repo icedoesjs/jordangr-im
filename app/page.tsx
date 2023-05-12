@@ -31,7 +31,7 @@ export default function Home() {
         <div className="about-content">
           <h2 className="about-header">Who am I?</h2>
           <p className="about-text">I have been working since a very young age doing many different things. My parents are both entrepreneurs and I have always helped in both family businesses, as well as my grandpas. I picked up software development in my free time after taking a deep interest in computers. I started with Javascript making Discord bots and CLI tools. I became a freelance developer when I was in my early teens and learned an incredible amount. My time spent freelancing taught me invaluable knowledge which I carry to this day. I picked up C# for a game called FiveM and continued into the game's framework when I learned LUA. My journey has came with many lessons and made my fondness for software and computers in a whole deeper than I ever could have imagined. I can proudly say I am addicted to learning and bettering my code and myself.</p>
-          <button type="button" className="btn contact-btn"><span className="bi bi-file-earmark-person-fill"></span>&nbsp;<a href="https://www.linkedin.com/in/jordan-grim-1492b1261/">Check out my resume!</a></button>
+          <button type="button" className="btn contact-btn"><span className="bi bi-file-earmark-person-fill"></span>&nbsp;<a href="/resume">Check out my resume!</a></button>
         </div>
       </div>
       <div className="languages-container">
